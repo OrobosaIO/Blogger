@@ -12,5 +12,7 @@ GROUP MEMBERES
 7. Mordi Chukwuma Eugene -- VUG/CSC/18/2658   (USERNAME: ChuksMordi)
 8. Luka Ularju Gadzama -- VUG/CSC/18/2885  (USERNAME: lucakadir)
 9. Olowonihi Fikunmi Andrew -- VUG/CSC/18/2545   (USERNAME: fikunmi)
-10. Yusuf Habibat Omolara -- VUG/CSC/18/2711   (USERNAME: Lara053)
-11. Edokwe Frances Chizzy -- VUG/CSC/18/2610   (USERNAME: franny1205)
+10. Okoye Chidiebele Anthony -- VUG/CSC/18/2857
+
+
+
